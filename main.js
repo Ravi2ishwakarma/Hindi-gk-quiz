@@ -682,7 +682,6 @@ function checkAnswer(selectedIndex) {
        document.querySelectorAll("option")[selectedIndex].style.borderColor = "green"
      },100)
       
-
         userAnswers[currentQuestion] = selectedIndex;
 
         // Display the correct answer and highlight it in green
