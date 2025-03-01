@@ -91,23 +91,23 @@ startQuizBtn.addEventListener("click",()=>{
 
 
 
-const questions = [  
-  {    question: "Who is the favourite student of Manshi ma'am?",    options: ["Yogendra", "Ravi", "Suryansh", "Mousam"],
+//const questions = [  
+  /*{    question: "which is the best team in ipl 2025?",    options: ["csk", "kkr", "dc", "mi"],
     answer: "3"
   },
   {
-    question: "Who said so 'Das ladke khade kar denge'?",
-    options: ["Kapil sir", "Vivek sir", "Principal sir", "Ankit sir"],
+    question: "Who said that 'ek chhakke ne world cup nhi jitaya'?",
+    options: ["Rohit Sharma", "Goutam Gambhir", "Virat Kohli", "MS Dhoni"],
     answer: "1"
   },
   {
-    question: "Who is studing secretly?",
-    options: ["Krishna", "Ravi", "Suryansh", "Abhinav"],
+    question: "Which team will win champions trophy 2025?",
+    options: ["AUS", "ENG", "IND", "NZ"],
     answer: "2"
   },
   {
-    question: "Who will top in the 5th semester?",
-    options: ["Abhinav", "Yogendra", "Ashish", "Ravi"],
+    question: "Who is the greatest captain all time ?",
+    options: ["Rohit Sharma", "Kapil Dev", "MS Dhoni", "Virat Kohli"],
     answer: "0"
   },
   {
@@ -116,10 +116,9 @@ const questions = [
     answer: "2"
   },
  
-];
+];*/
 
 // if you want hindi questions then just comment out the English questions and remove hindi questions from comment 
-/*
 const questions = [
   {
     question: "भारत का राष्ट्रीय खेल कौन सा है?",
@@ -628,7 +627,7 @@ const questions = [
     answer: "0"
   },
   
-];*/
+];
 
 
 
